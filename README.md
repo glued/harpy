@@ -3,7 +3,7 @@
 [Atom]:(//atom.io/)
 
 # Harpy
-An [Atom] package with manages [Harp] sessions and deployment to [Surge].
+An [Atom] package which creates and manages [Harp] servers.
 
 WARNING: Currently in development, only tested on OSX, pretty sure it won't work on Windows
 
@@ -40,4 +40,4 @@ Launch [Harp] from Atom's command palette `cmd + shift + p`
 * [Harp] init with settings config
 * Atom settings for package
 * Prompt for CNAME file
-* Surge support
+* [Surge] support
