@@ -41,3 +41,11 @@ Launch [Harp] from Atom's command palette `cmd + shift + p`
 * Atom settings for package
 * Prompt for CNAME file
 * [Surge] support
+
+### Dev Notes
+```
+git clone https://github.com/glued/harpy
+cd harpy
+apm install
+apm link .
+```
