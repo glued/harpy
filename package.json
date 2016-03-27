@@ -1,0 +1,22 @@
+{
+  "name": "harpy",
+  "main": "./lib/harpy",
+  "version": "0.1.0",
+  "description": "Launch Harp from atom and deploy to surge",
+  "keywords": [
+    "harpjs",
+    "harp",
+    "surge",
+    "atom"
+  ],
+  "author": "Richard Worsfold",
+  "repository": "https://github.com/glued/harpy",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "consistent-path": "^2.0.2",
+    "portfinder": "^1.0.3"
+  }
+}
