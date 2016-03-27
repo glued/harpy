@@ -1,6 +1,6 @@
-[Surge]:[https://surge.sh]
-[Harp]:[https://harpjs.com/]
-[Atom]:[https://atom.io/]
+[Surge]:https://surge.sh
+[Harp]:https://harpjs.com/
+[Atom]:https://atom.io/
 
 # Harpy
 An [Atom] package which creates and manages [Harp] servers.
