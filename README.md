@@ -11,6 +11,10 @@ Currently requires [Harp] to be installed globally
 
 Launch [Harp] from Atom's command palette `cmd + shift + p`
 
+![](img/01.jpg)
+
+![](img/02.jpg)
+
 ### Commands
 
 **Harpy: Start Server**
@@ -31,7 +35,10 @@ Launch [Harp] from Atom's command palette `cmd + shift + p`
  - Launches the default browser to the selected project's server url
 
 **Harpy: Open Terminal**
- - Launches the terminal (OSX) or command prompt (windows) to the selected project
+ - Launches the terminal (OSX) or command prompt (Windows) to the selected project
+
+**Harpy: Compile**
+- Compile project to www in root directory unless otherwise specified in settings
 
 ### Todo
 * Atom settings for package
