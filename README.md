@@ -9,7 +9,7 @@ An [Atom package](https://atom.io/packages/harpy) which creates and manages [Har
 [![APM Version](https://img.shields.io/apm/v/harpy.svg)](https://atom.io/packages/harpy)
 <!-- [![APM Downloads](https://img.shields.io/apm/dm/harpy.svg)](https://atom.io/packages/harpy) -->
 
-Install Harpy from command-line via
+Install Harpy from the command-line via
 ```
 apm install harpy
 ```
