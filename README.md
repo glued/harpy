@@ -4,14 +4,20 @@
 
 
 # Harpy
-An [Atom] package which creates and manages [Harp] servers.
+An [Atom package](https://atom.io/packages/harpy) which creates and manages [Harp] servers.
 
 [![APM Version](https://img.shields.io/apm/v/harpy.svg)](https://atom.io/packages/harpy)
 <!-- [![APM Downloads](https://img.shields.io/apm/dm/harpy.svg)](https://atom.io/packages/harpy) -->
 
-Currently requires [Harp] to be installed globally
+Install Harpy from command-line via
+```
+apm install harpy
+```
 
-`npm install harp -g`
+Currently requires [Harp] to be installed globally
+```
+npm install harp -g
+```
 
 Launch [Harp] from Atom's command palette `cmd + shift + p`
 
