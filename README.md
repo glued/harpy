@@ -11,9 +11,9 @@ Currently requires [Harp] to be installed globally
 
 Launch [Harp] from Atom's command palette `cmd + shift + p`
 
-![](img/01.jpg)
+![Harpy Commands](https://github.com/glued/harpy/raw/master/img/01.jpg)
 
-![](img/02.jpg)
+![Harpy Server](https://github.com/glued/harpy/raw/master/img/02.jpg)
 
 ### Commands
 
