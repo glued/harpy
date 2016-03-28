@@ -1,0 +1,36 @@
+'context-menu':
+  'atom-text-editor': []
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Harpy'
+      'submenu': [
+        {
+          'label': 'Start Server'
+          'command': 'harpy:start server'
+        },
+        {
+          'label': 'Stop Server'
+          'command': 'harpy:stop server'
+        },
+        {
+          'label': 'Stop All'
+          'command': 'harpy:stop all'
+        },
+        {
+          'label': 'Compile'
+          'command': 'harpy:compile'
+        },
+        {
+          'label': 'Open Terminal'
+          'command': 'harpy:open terminal'
+        },
+        {
+          'label': 'Open Browser'
+          'command': 'harpy:open browser'
+        },
+      ]
+    ]
+  }
+]
