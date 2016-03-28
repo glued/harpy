@@ -1,7 +1,7 @@
 {
   "name": "harpy",
   "main": "./lib/harpy",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "An Atom package which creates and manages Harp servers",
   "keywords": [
     "harpjs",
@@ -9,7 +9,7 @@
     "surge",
     "atom"
   ],
-  "private":true,
+  "private": true,
   "author": "Richard Worsfold",
   "repository": "https://github.com/glued/harpy",
   "license": "MIT",
