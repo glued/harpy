@@ -2,8 +2,12 @@
 [Harp]:http://harpjs.com/
 [Atom]:https://atom.io/
 
+
 # Harpy
 An [Atom] package which creates and manages [Harp] servers.
+
+[![APM Version](https://img.shields.io/apm/v/harpy.svg)](https://atom.io/packages/harpy)
+<!-- [![APM Downloads](https://img.shields.io/apm/dm/harpy.svg)](https://atom.io/packages/harpy) -->
 
 Currently requires [Harp] to be installed globally
 
