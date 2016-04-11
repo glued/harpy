@@ -1,7 +1,7 @@
 {
   "name": "harpy",
   "main": "./lib/harpy",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "description": "An Atom package which creates and manages Harp servers",
   "keywords": [
     "harpjs",
