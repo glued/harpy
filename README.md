@@ -35,6 +35,9 @@ Launch [Harp] from Atom's command palette `cmd + shift + p`
   - Errors will show up as notifications
   - Launches default browser to server url
 
+**Harpy: List**
+  - List all active harp instances (OSX) with the option to stop
+
 **Harpy: Stop Server**
   - Stops the current [Harp] server running in atom for a specific project
 
